@@ -37,7 +37,7 @@ I'm a passionate and proactive full-stack developer with a strong foundation in 
 
  📊 **GitHub Stats**, 📈 **Top Languages**
 
-![Hemant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hks74123&show_icons=true&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hks74123&layout=donut-vertical&theme=radical)
+![Hemant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hks74123&show_icons=true&&layout=donut-vertical&theme=radical) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hks74123&layout=donut-vertical&theme=radical)
 
 🏆 **GitHub Achievements**
 
