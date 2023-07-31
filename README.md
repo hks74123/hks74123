@@ -35,13 +35,18 @@ I'm a passionate and proactive full-stack developer with a strong foundation in 
 - ✉️ Email: hemant91852@gmail.com
 
 
-  ### GitHub Activity
+ 📊 **GitHub Stats**
 
-![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=hks74123&theme=github)
+![Hemant's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hks74123&show_icons=true&theme=radical)
 
-### GitHub Statistics
+📈 **Top Languages**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hks74123&show_icons=true&theme=github_dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hks74123&layout=compact&theme=radical)
+
+🏆 **GitHub Achievements**
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hks74123&theme=dracula)
+
 
 
 Feel free to reach out to me! 😊
