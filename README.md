@@ -32,6 +32,16 @@ I'm a passionate and proactive full-stack developer with a strong foundation in 
 🌐 **Connect with Me**:
 - [![GitHub](https://img.shields.io/badge/Github-hks74123-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/hks74123)
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Hemant%20Sharma-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hemant-sharma-79a3601a7/)
-- ✉️ Email: hemant91852@gmail.com  
+- ✉️ Email: hemant91852@gmail.com
+
+
+  ### GitHub Activity
+
+![GitHub Contributions](https://activity-graph.herokuapp.com/graph?username=hks74123&theme=github)
+
+### GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hks74123&show_icons=true&theme=github_dark)
+
 
 Feel free to reach out to me! 😊
