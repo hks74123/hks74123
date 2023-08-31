@@ -25,7 +25,7 @@ I'm a passionate and proactive full-stack developer with a strong foundation in 
 
 🏆 **Achievements**:
 - **Problem-Solving**
-  - LeetCode Contest Rating: 1725 (Among top 10.89% globally)
+  - LeetCode Contest Rating: 1812 (Among top 6.9% globally)
   - 450+ Problems solved on GeeksforGeeks and LeetCode
   - 2nd institutional Rank on GeeksforGeeks Practice
 
