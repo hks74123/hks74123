@@ -17,7 +17,7 @@ I'm a passionate and proactive full-stack developer with a strong foundation in 
 - **Kainskep | Full Stack Developer Intern** 
 
 🚀 **Eye-catching Projects**:
-- **Leaftown E-Nursery Website for Startup** | [Website](https://www.leaftown.in/)
+- **Leaftown E-Nursery Website for Startup** | [Website](https://leaftown.pythonanywhere.com/)
   - Developed a full-stack e-commerce website for a plant e-nursery startup, allowing customers to browse and purchase various plants among 150+ plants.
 
 - **MyVision11** | [Source Code](https://github.com/hks74123/vision11)
